@@ -12,7 +12,7 @@ Flow: xtls-rprx-direct
 encryption: none
 Transport: ws
 TLS: tls
-
+```
 ### 注意
 #### 路径
 WebSocket 路径(配置文件中的 path )为 `/app` 。
@@ -40,3 +40,4 @@ addEventListener(
     )
   }
 )
+```
